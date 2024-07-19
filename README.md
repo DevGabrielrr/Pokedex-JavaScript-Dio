@@ -3,7 +3,7 @@
 </p>
 </br>
 
-#  Construindo Plataforma para Listagem de pokémons | DIO
+#  Construindo Plataforma de Listagem de pokémons | DIO
                             
 ![Imagem do projeto](assets/img/index-screenshot.png)
 
