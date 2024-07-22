@@ -6,7 +6,7 @@
 #  Construindo Plataforma de Listagem de pokémons | DIO
                             
 ![Imagem do projeto](assets/img/index-screenshot.png)
-
+### Veja o projeto
 [Link do projeto](https://devgabrielrr.github.io/Pokedex-JavaScript-Dio/)
 
 
