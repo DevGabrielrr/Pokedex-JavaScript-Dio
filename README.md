@@ -43,6 +43,10 @@ Desenvolver uma plataforma web para listagem e visualização de pokémons, util
  :
 
     ```bash
+    npm install -g http-server
+    ```
+    
+    ```bash
     http-server
 
     ```
