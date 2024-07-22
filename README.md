@@ -39,7 +39,7 @@ Desenvolver uma plataforma web para listagem e visualização de pokémons, util
     cd nome-do-repositorio
     ```
 
-3. Abra o terminal de sua IDE e use o comando logo abaixo para abrir no navegador Web, e utilize uma da 2 portas http
+3. Abra o terminal de sua IDE e use o comando logo abaixo para abrir no navegador Web, ira instalar um servidor globalmente
  :
 
     ```bash
