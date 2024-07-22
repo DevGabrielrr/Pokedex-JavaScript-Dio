@@ -7,6 +7,9 @@
                             
 ![Imagem do projeto](assets/img/index-screenshot.png)
 
+[Link do projeto](https://devgabrielrr.github.io/Pokedex-JavaScript-Dio/)
+
+
 ## 💻 Projeto
 
 Desenvolver uma plataforma web para listagem e visualização de pokémons, utilizando JavaScript, foi uma jornada empolgante e desafiadora. Para construir este projeto, aproveitamos os recursos oferecidos pela API REST PokéApi [PokéApi](https://pokeapi.co/). disponível na plataforma da Digital Innovation One (DIO).No desenvolvimento, JavaScript desempenhou um papel central, permitindo-nos manipular dinamicamente os dados obtidos da API e apresentá-los de forma interativa aos usuários. Utilizamos técnicas modernas de programação assíncrona para lidar eficientemente com as requisições à API, garantindo uma resposta rápida e uma experiência fluida de navegação.
