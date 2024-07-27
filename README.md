@@ -31,7 +31,7 @@ Desenvolver uma plataforma web para listagem e visualização de pokémons, util
 
 ## 📥 Instalação e execução
 
-1. Faça um clone desse repositório e acesse o diretório.
+1. Faça um clone desse repositório e acesse o diretório:
 
     ```bash
     $ git clone git@github.com:DevGabrielrr/Pokedex-JS-Dio.git
